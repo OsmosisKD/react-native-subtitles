@@ -13,6 +13,7 @@
     "scripts": {
         "build": "npx tsc"
     },
+    "author": "shynonagons",
     "keywords": [
         "react-native",
         "subtitles",

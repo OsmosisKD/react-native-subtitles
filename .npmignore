@@ -1,0 +1,11 @@
+**/node_modules/**
+.idea
+coverage/**
+schemas/**
+.github
+.eslintcache
+.eslintignore
+.eslintrc.json
+.prettierignore
+.prettirerc
+**/*.test.js
