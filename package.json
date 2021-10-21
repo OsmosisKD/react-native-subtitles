@@ -1,8 +1,11 @@
 {
     "name": "@osmosiskd/react-native-subtitles",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Add subtitles to any video given a current timestamp",
-    "repository": "@osmosiskd/react-native-subtitles",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/OsmosisKD/react-native-subtitles.git"
+    },
     "main": "index.js",
     "files": [
         "dist"
