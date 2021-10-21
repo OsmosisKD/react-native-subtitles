@@ -1,7 +1,5 @@
 # react-native-subtitles
 
-[![NPM Version](https://img.shields.io/npm/v/@osmosiskd/react-native-subtitles.svg?style=flat)]()
-
 Add subtitles to any video given a current timestamp.
 
 ## Table of Contents
